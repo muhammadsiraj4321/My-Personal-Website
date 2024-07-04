@@ -3380,6 +3380,7 @@ span.red-color {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  background: url("../images/main-bg-video.PNG") no-repeat;
 }
 @media (min-aspect-ratio:16/9){
   .main-bg-video{
